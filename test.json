@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lithe-strata-280816",
+  "private_key_id": "4e3e973ceaf1fde0a63dc1133ee65f68b367a3c1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCj2uI7TsNhUnB4\nMdPw78K6UhejIG4gxAExyH99H9ZpHR6LX3DWYRqDLTivSAszhxWadYrezAoEwyH0\nX6xixEgzg92eIiH3DmJ0a0wPSjt7GgblNk7W9lVTrVWXKY7jvRnB38uJT9gFfgqt\nfaN0rch7izyqlELnN1M+EYSu9U1UO7ECAqdJphVZV6vsfwfqccz/9P3OB1WvCmNI\noK6G28JozhEPFhC1L5JdPmc4I8O3dVrvhHdeGpi19rPoMxAmtxdhQaqc0EaedZuV\n/0s1M+gT3JltTlSOzgDyYp37h629V1A8Xya7tKNPE5M35sl6PWfjDq7fK+2JNR76\n9RfWUiqLAgMBAAECggEAFrOJhXhXnGu3YQeyRUl1PAA0qH6ik2U52c5dT2tyTB+N\n2aHFozCn44Wyj/erdEj3vBh4lClGYruFlZ24Z09Uxi0JBCgsIYD7hgVO7+Kz0/iF\nUmC6/Tr6vmb07/EA4YTpBScpmWLCW0cdA/AKDe0n1L9ejoQ6XV4ZE9qJ0f2daEPL\nNiRqXtTBv0x4ozfDBZeTTgtmTNdlCaz8kPJFjuphOoWLTxzcJ/t9rPgq4BwKGeto\ngkLVGSLbDNrUgO27Yd7P3sduLUm5dm2IIa7NvnnbDn9OinD+fVWsH1zsKuhW34CT\nMpiw76eHZFwTJqzFurt5WGcgRveWeT+/+oDNc+6C7QKBgQDg1zohDRHlnyP9dSXX\nNXybuXvbMd3aGavKG5gv0vECrfYZ8/Ult8aaNu5BxgultzNOdHPCuKz9nHdbRzjy\naRWy2v1vY8ngctcj30myU1q+DXUGc2TjbxijyftIiyU245VyB3uRe1n1bQPJbU0D\nwHRvFqleD7Ao0/efYt5lhuNrZQKBgQC6kAore0GJhSSysKWYStYRnnngmHVZBk0i\nb/KY4XPeO/Ya51cXKlydogBcUqe7t3bxgNvlm0jAJoM0E7KogXjps98vHKBtWwv5\nCjMJMig3KvBc1giZPWblQXLHoE9ka7FV9Q9kM8fQROqsvoMci57Wghch4hAKGU9N\nKoNGMnf3LwKBgQCHZdThlmdSqhUYSvWwtcsGVBqcE1mQP6lOGnP5SMROYsgzNNBK\nGHOG5tFv1n2pG7vP4RzdBC1YxGK0Gx3WDSY+ANZhv+wQN9gLCCnvM3cPwDba3Z7B\nv2NNLxMdyn1sonyaoJrvLyMrQqznHeUk/z6erzzrIfNpgsw5tWZMKYDGaQKBgCnP\n3negSC/qBy+FJ5faLeAFBIuxn5s0LlVpgZWB8dX82kttTbeDZv5tMGeAntcTZzT5\nDE+JXeSyvPUO9RuO6Op3xa1pXQslPKmz/3wwIZM7rGMiFQtDF6yJ3o+e/iwjdrst\nESYD9ORYjb/pcrkTEaZBwa12XOHmij9hJ8qzxO9BAoGARd7/0b+VeFHvCXNmEie+\nef2h1wEP+A2OQ9i4QtMBqXBrIPCWwLFJIY4jDhQHkkvQejaUXV0eEH4rJrmjtmqO\nWpM0C+HUF3Z3nHQcbjl0mTp9BVGKdByUuAdf9YtzatZiIwOafmihqqTgzaGaY1gW\nrxtkSkCIlwH3WLdwG5gL4zs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "store-818@lithe-strata-280816.iam.gserviceaccount.com",
+  "client_id": "115109486144810548248",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/store-818%40lithe-strata-280816.iam.gserviceaccount.com"
+}
